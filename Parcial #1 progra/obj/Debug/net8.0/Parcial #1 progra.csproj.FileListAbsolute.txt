@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Parcial #1 progra\Parcial #1 progra\bin\Debug\net8.0\Parcial #1 progra.exe
+C:\Users\DELL\source\repos\Parcial #1 progra\Parcial #1 progra\bin\Debug\net8.0\Parcial #1 progra.deps.json
+C:\Users\DELL\source\repos\Parcial #1 progra\Parcial #1 progra\bin\Debug\net8.0\Parcial #1 progra.runtimeconfig.json
+C:\Users\DELL\source\repos\Parcial #1 progra\Parcial #1 progra\bin\Debug\net8.0\Parcial #1 progra.dll
+C:\Users\DELL\source\repos\Parcial #1 progra\Parcial #1 progra\bin\Debug\net8.0\Parcial #1 progra.pdb
+C:\Users\DELL\source\repos\Parcial #1 progra\Parcial #1 progra\obj\Debug\net8.0\Parcial #1 progra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Parcial #1 progra\Parcial #1 progra\obj\Debug\net8.0\Parcial #1 progra.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Parcial #1 progra\Parcial #1 progra\obj\Debug\net8.0\Parcial #1 progra.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Parcial #1 progra\Parcial #1 progra\obj\Debug\net8.0\Parcial #1 progra.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Parcial #1 progra\Parcial #1 progra\obj\Debug\net8.0\Parcial #1 progra.dll
+C:\Users\DELL\source\repos\Parcial #1 progra\Parcial #1 progra\obj\Debug\net8.0\refint\Parcial #1 progra.dll
+C:\Users\DELL\source\repos\Parcial #1 progra\Parcial #1 progra\obj\Debug\net8.0\Parcial #1 progra.pdb
+C:\Users\DELL\source\repos\Parcial #1 progra\Parcial #1 progra\obj\Debug\net8.0\Parcial #1 progra.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Parcial #1 progra\Parcial #1 progra\obj\Debug\net8.0\ref\Parcial #1 progra.dll
